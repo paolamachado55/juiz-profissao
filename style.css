@@ -1,4 +1,9 @@
 body
 {
-    background-color: rgb(91, 32, 146) 
+    background-color: rgb(217, 193, 240) 
+}
+<head>
+  <link rel="stylesheet" href="style.css">
+</head> .texto-esquerda {
+  text-align: left;
 }
